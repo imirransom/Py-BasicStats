@@ -2,7 +2,7 @@ from statzcw import zcount, zmean, zvariance, zstddev, zmode, zmedian, zstderr, 
 
 # print(zcount([2, 4, 5, 456]))
 #
-print(zvariance([32, 45, 67]))
+# print(zvariance([32, 45, 67]))
 #
 # print(zstddev([9, 24, 31]))
 #
